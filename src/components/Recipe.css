@@ -1,0 +1,19 @@
+.item{
+    text-align: center;
+    width:500px;
+    margin-bottom: 100px;
+    padding:20px 10px;
+    background-image: linear-gradient(to top, #37ecba 0%, #72afd3 100%);
+    color:#fff;
+}
+.food_img{
+    border-radius: 50%;
+    margin-top:20px;
+}
+li{
+    list-style: none;
+    margin-bottom:10px;
+}
+.space{
+    margin-bottom:30px;
+}
